@@ -10,5 +10,12 @@ I have choosen the great india crickter **Virat Kohli** as the subject for this 
 2. HTML & CSS based
 3. core concept involved
 
+***
+## Rules
+1. must contain an image element
+2. must contain the discription of the personality tribute page is based on
+3. a link to another site with more info.
+4. responsive,broweser friendly
+
 ## **feedback**
 If you think there can be an improvenment feel free  to tell me and critcise know its not perfect show your suggestion and report any issues.
